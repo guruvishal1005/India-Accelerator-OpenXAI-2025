@@ -52,6 +52,7 @@ Keep answers consistent with the case.
     - Output the response in bullet points (not paragraphs).
     - Make sure "Score: X/10" is the first line.
     - Make sure to mention the actual condition name at the end.
+    - Keep the total response under 200 words.
         `,
       };
 
